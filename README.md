@@ -10,7 +10,7 @@ This repo contains an application that functions as a text editor. It utilizes w
 ---
 
 ## Installation
-The repo contains a package.json with the necessary dependencies. Run ```npm install``` in terminal to install dependencies. It also has several scripts  Run ```npm start``` to run the build on the client side and launch the server, then navigate to the appropriate URL to use the application.
+The repo contains a package.json with the necessary dependencies. Run ```npm install``` in terminal to install dependencies. It also has several scripts  Run ```npm start``` to run the build on the client side and launch the server, then navigate to the appropriate URL to use the application. The deployed application URL can be found at https://ancient-sea-72366.herokuapp.com/.
 
 ---
 
